@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
-<div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=praveengupta1701&style=flat-square&color=blue" align="center" alt=""/> 
- </div >
+
  <div id="header" align="center">
 <h1>
   Hi Everyone!
