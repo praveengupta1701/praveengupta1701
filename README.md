@@ -18,7 +18,7 @@
   Hi Everyone!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
 </h1>
-</div?                                                                                                                   
+</div>                                                                                                                  
 ---
 
 ### :man_technologist: About Me :  
@@ -32,7 +32,7 @@ I have expertise in System Design(LLD) and Design Patterns.<br>
 - HackerRank Advanced Problem Solving Certification<br>
 - :zap:I am an Enthusiastic team member, a fast learner of problem-solving skills, and have good coding with communication skills.<br>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://github.com/praveengupta1701)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://github.com/praveengupta1701)  [![Linkedin Badge](https://img.shields.io/badge/Mail-orange?style=for-the-badge&logo=Resume&logoColor=white)](mailto:praveengupta.17jan@gmail.com)    [![Linkedin Badge](https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=Resume&logoColor=white)](https://praveengupta1701.github.io/assets/doc/SDE_Praveen_Gupta_Resume.pdf)
 
 
 
