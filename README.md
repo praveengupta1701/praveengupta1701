@@ -20,7 +20,7 @@
 </h1>
 </div?
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
                                                                                                                    
 ---
@@ -28,7 +28,7 @@
 ### :man_technologist: About Me :  
 
 - I am an extroverted programmer who has an interest in solving real-world problems and tries to be better each day.<br>
-- I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>
+- I am a Passionate Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>
 - I have 1+ years of working experience in C++ (OOPs), C, Java, Android Studio, and Shell Scripting.<br>
 - I am interested in Data Structures, Algorithms, Database Management, Computer Networks, and Operating Systems.<br>
 - Hands-on experience in Analysis, Development, and Implementation.<br>
