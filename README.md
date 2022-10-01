@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://github.com/praveengupta170)">
+  <a href="https://www.linkedin.com/in/praveen-gupta-1701/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:praveengupta.17jan@gmail.com">
@@ -30,9 +30,15 @@ I have expertise in System Design(LLD) and Design Patterns.<br>
 - HackerRank Advanced Problem Solving Certification<br>
 - :zap:I am an Enthusiastic team member, a fast learner of problem-solving skills, and have good coding with communication skills.<br>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://github.com/praveengupta1701)  [![Linkedin Badge](https://img.shields.io/badge/Mail-orange?style=for-the-badge&logo=Resume&logoColor=white)](mailto:praveengupta.17jan@gmail.com)    [![Linkedin Badge](https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=Resume&logoColor=white)](https://praveengupta1701.github.io/assets/doc/SDE_Praveen_Gupta_Resume.pdf)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-gupta-1701/)  [![Linkedin Badge](https://img.shields.io/badge/Mail-orange?style=for-the-badge&logo=Resume&logoColor=white)](mailto:praveengupta.17jan@gmail.com)    [![Linkedin Badge](https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=Resume&logoColor=white)](https://praveengupta1701.github.io/assets/doc/SDE_Praveen_Gupta_Resume.pdf) 
 
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/praveen-gupta-1701/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-gupta-1701/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/praveengupta17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ds" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sd" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ds" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="df" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -53,8 +59,10 @@ I have expertise in System Design(LLD) and Design Patterns.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Window" alt="Window" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-</div>
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </div>
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveengupta1701&layout=compact&theme=vision-friendly-dark)](https://github.com/praveengupta1701/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveengupta1701&show_icons=true&locale=en" alt="sad" /></p>
