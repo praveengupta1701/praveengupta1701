@@ -33,11 +33,12 @@ I have expertise in System Design(LLD) and Design Patterns.<br>
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-gupta-1701/)  [![Linkedin Badge](https://img.shields.io/badge/Mail-orange?style=for-the-badge&logo=Resume&logoColor=white)](mailto:praveengupta.17jan@gmail.com)    [![Linkedin Badge](https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=Resume&logoColor=white)](https://praveengupta1701.github.io/assets/doc/SDE_Praveen_Gupta_Resume.pdf) 
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/praveen-gupta-1701/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-gupta-1701/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/praveengupta17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ds" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sd" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ds" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="df" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sd" height="30" width="40" /></a>
+<!--<a href="https://www.codechef.com/users/praveengupta17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ds" height="30" width="40" /></a>-->
+<!--<a href="https://codeforces.com/profile/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ds" height="30" width="40" /></a>-->
+
 </p>
 
 ---
