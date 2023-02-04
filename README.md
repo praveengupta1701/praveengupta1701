@@ -23,8 +23,9 @@
 
 - I am an extroverted programmer who has an interest in solving real-world problems and tries to be better each day.<br>
 - I am a Passionate Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>
-- I have one and half years of working experience in C++ (OOPs), C, Java, Android Studio, and Linux.<br>
+- I have one and half years of working experience in C++ (OOPs, Multithreading), C, Java, Android Studio, and Linux.<br>
 - I am interested in Data Structures, Algorithms.<br>
+- I have also experience in writing Unit Tests in C++ using Gtest. <br>
 - Hands-on experience in Analysis, Development, and Implementation.<br>
 - HackerRank Advanced Problem Solving Certification<br>
 - :zap:I am an Enthusiastic team member, a fast learner of problem-solving skills, and have good coding with communication skills.<br>
