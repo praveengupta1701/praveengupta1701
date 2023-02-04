@@ -7,7 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:praveengupta.17jan@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/Mail-orange?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
+  </a>
+    <a href="https://praveengupta1701.github.io/assets/doc/Praveen_Gupta_C++_Software_Developer.pdf">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
 
@@ -30,7 +33,7 @@
 - HackerRank Advanced Problem Solving Certification<br>
 - :zap:I am an Enthusiastic team member, a fast learner of problem-solving skills, and have good coding with communication skills.<br>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-gupta-1701/)  [![Linkedin Badge](https://img.shields.io/badge/Mail-orange?style=for-the-badge&logo=Resume&logoColor=white)](mailto:praveengupta.17jan@gmail.com)    [![Linkedin Badge](https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=Resume&logoColor=white)](https://praveengupta1701.github.io/assets/doc/SDE_Praveen_Gupta_Resume.pdf) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-gupta-1701/)  [![Linkedin Badge](https://img.shields.io/badge/Mail-orange?style=for-the-badge&logo=Resume&logoColor=white)](mailto:praveengupta.17jan@gmail.com)    [![Linkedin Badge](https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=Resume&logoColor=white)](https://praveengupta1701.github.io/assets/doc/Praveen_Gupta_C++_Software_Developer.pdf) 
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/praveen-gupta-1701/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praveen-gupta-1701/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/praveengupta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d" height="30" width="40" /></a>
