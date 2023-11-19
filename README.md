@@ -9,7 +9,7 @@
   <a href="mailto:praveengupta.17jan@gmail.com">
     <img src="https://img.shields.io/badge/Mail-orange?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
-    <a href="https://praveengupta1701.github.io/assets/doc/Praveen_Gupta_C++_Software_Engineer.pdf">
+    <a href="https://praveengupta1701.github.io/assets/doc/Praveen_Gupta_C++_Software_Developer.pdf">
     <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
